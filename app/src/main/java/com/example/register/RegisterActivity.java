@@ -28,7 +28,7 @@ public class RegisterActivity extends AppCompatActivity {
     private Button registerButton;
 
     // Replace with the actual URL to your register.php script on Hostinger
-    private static final String REGISTER_URL = "https://8rmployee.swuitapp.com/register.php";
+    private static final String REGISTER_URL = "https://8rmployee.swuitapp.com/ite300/register.php";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
